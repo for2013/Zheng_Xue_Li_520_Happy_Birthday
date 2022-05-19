@@ -8,6 +8,7 @@ var config = {
         "怎么越看越好看呢",
         "这是傻逼（吼吼吼）",
         "520生日快乐",
+        "许个愿吧",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -34,7 +35,7 @@ var config = {
         balloons_flying: "还有呢还有呢",
         cake_fadein: "蛋糕呢？ 有的有的",
         light_candle: "蜡烛点起来吧",
-        wish_message: "生日快乐",
+        wish_message: "生日快乐，许个愿吧",
         story: "打开你的专属惊喜吧",
     }
 };
